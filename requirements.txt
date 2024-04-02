@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy 
+yfinance
+matplotlib
+seaborn
+plotly
+datetime
+# date
+timedelta
+requests
+BeautifulSoup
